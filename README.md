@@ -1,6 +1,6 @@
 # java8-apps-testlab
 
-## 249_SupplyWarehouse-SB2
+## [249_SupplyWarehouse-SB2](249_SupplyWarehouse-SB2)
 
 Java8 SpringBoot2+JPA(Hibernate)
 
@@ -9,7 +9,7 @@ added: log4j2 yaml support
 
 сборка проекта в maven
 
-## 24B-AspectJ-baseAnimalLib
+## [24B-AspectJ-baseAnimalLib](24B-AspectJ-baseAnimalLib)
 
 базовый (библиотечный) проект для отработки AspectJ
 цель: проект компилируется в jar без знания об AspectJ
@@ -24,7 +24,7 @@ added: log4j2 yaml support
 библиотеки - lombok,aspectj-maven-plugin
 сборщик - maven
 
-## 24C-AspectJ-via-gradle
+## [24C-AspectJ-via-gradle] (24C-AspectJ-via-gradle)
 
 консольное приложение собираемое через gradle 6.8.2
 проект на Java 8.
